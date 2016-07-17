@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/deepanshu/git/Loktra/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/deepanshu/git/Loktra/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.0.0_fb799293c2771879da553b09d85eea5bce9200fe.jar" />
+    </item>
+    <item
+        jar="/home/deepanshu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/deepanshu/git/Loktra/app/build/intermediates/pre-dexed/release/okhttp-3.3.0_02d111a77790f123ae5f73d7abd15453b017b47c.jar" />
+    </item>
+    <item
+        jar="/home/deepanshu/git/Loktra/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/deepanshu/git/Loktra/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.0.0_8160bc192d288f53920fad75203a3843aa371224.jar" />
+    </item>
+    <item
+        jar="/home/deepanshu/git/Loktra/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/deepanshu/git/Loktra/app/build/intermediates/pre-dexed/release/internal_impl-24.0.0_4ead8e745f2c9798eee7d4d298f6eb7914c0d0fb.jar" />
+    </item>
+    <item
+        jar="/home/deepanshu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/deepanshu/git/Loktra/app/build/intermediates/pre-dexed/release/retrofit-2.1.0_fe4db45234fe43767f34f5ca860efcdf643f24de.jar" />
+    </item>
+    <item
+        jar="/home/deepanshu/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/deepanshu/git/Loktra/app/build/intermediates/pre-dexed/release/okio-1.8.0_1bc68418115cff583a5291813a59545c2e4e88ce.jar" />
+    </item>
+    <item
+        jar="/home/deepanshu/git/Loktra/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/deepanshu/git/Loktra/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.0.0_9bfe0e0c81f6f6ca470bc8050106e1340aacea2d.jar" />
+    </item>
+    <item
+        jar="/home/deepanshu/git/Loktra/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/home/deepanshu/git/Loktra/app/build/intermediates/pre-dexed/release/com.android.support-design-24.0.0_3f014e5012add76731a9bb532ef85f8432be316a.jar" />
+    </item>
+    <item
+        jar="/home/deepanshu/git/Loktra/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/home/deepanshu/git/Loktra/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-24.0.0_ae1d9e8567d7386527ab0715507d9e144ff69f5b.jar" />
+    </item>
+    <item
+        jar="/home/deepanshu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/deepanshu/git/Loktra/app/build/intermediates/pre-dexed/release/support-annotations-24.0.0_1fb2344d9256421ac637b24c8907ad11d54cc7e5.jar" />
+    </item>
+    <item
+        jar="/home/deepanshu/git/Loktra/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/deepanshu/git/Loktra/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.0.0_ac6f9f3cf72c989c031872937c246c1ed1fe6373.jar" />
+    </item>
+    <item
+        jar="/home/deepanshu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/deepanshu/git/Loktra/app/build/intermediates/pre-dexed/release/converter-gson-2.1.0_dd8d841e5e2b192975c819c90a4e418c4817bd82.jar" />
+    </item>
+    <item
+        jar="/home/deepanshu/git/Loktra/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/home/deepanshu/git/Loktra/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.0.0_2cd1507b32b81561d7231231f0b9511f721d9595.jar" />
+    </item>
+    <item
+        jar="/home/deepanshu/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/deepanshu/git/Loktra/app/build/intermediates/pre-dexed/release/gson-2.7_ff5f4cc43abf69a3e73b19070e5a7a345c876794.jar" />
+    </item>
+
+</items>
